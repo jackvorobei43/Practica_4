@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_4", "Practica_4\Practica_4.csproj", "{6788D66D-D8B4-4B10-8821-E36934AFF233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_Practica", "Kata_Practica\Kata_Practica.csproj", "{B9594B67-300C-43C9-A933-68C9F29D54D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6788D66D-D8B4-4B10-8821-E36934AFF233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6788D66D-D8B4-4B10-8821-E36934AFF233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6788D66D-D8B4-4B10-8821-E36934AFF233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9594B67-300C-43C9-A933-68C9F29D54D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9594B67-300C-43C9-A933-68C9F29D54D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9594B67-300C-43C9-A933-68C9F29D54D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9594B67-300C-43C9-A933-68C9F29D54D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
