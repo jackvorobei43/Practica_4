@@ -1,3 +1,3 @@
-﻿using System;
+﻿Console.Write("Сделал женя");
 
-Console.Write("Сделал женя");
+Console.WriteLine("Добавляю 2 комит");
